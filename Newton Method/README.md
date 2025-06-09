@@ -1,6 +1,4 @@
-# Newton Chaos Explorer
-
-**Newton³ Chaos Explorer** is a Python project that reproduces and extends the functionality of the Mathematica notebook **Newton3_chaos.nb**. It symbolically derives and numerically investigates the “chaotic” iteration patterns of Newton’s method applied to two cubic polynomials:
+**Newton's Method Explorer** is a Python project that reproduces and extends the functionality of the Mathematica notebook **Newton_method.nb**. It symbolically derives and numerically investigates the “chaotic” iteration patterns of Newton’s method applied to two cubic polynomials:
 
 1. \(f_1(x) = x^3 - x - 1\)  
 2. \(g_2(x) = x^3 - x + 1\)  
